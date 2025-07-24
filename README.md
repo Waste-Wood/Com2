@@ -79,11 +79,30 @@ The training set has the same structure of com2-main.
 ## Citation
 
 ```
-@article{xiong20252,
-  title={Com $\^{} 2$: A Causal-Guided Benchmark for Exploring Complex Commonsense Reasoning in Large Language Models},
-  author={Xiong, Kai and Ding, Xiao and Cao, Yixin and Yan, Yuxiong and Du, Li and Zhang, Yufei and Gao, Jinglong and Liu, Jiaqian and Qin, Bing and Liu, Ting},
-  journal={arXiv preprint arXiv:2506.07064},
-  year={2025}
+@inproceedings{xiong-etal-2025-com2,
+    title = "Com$^2$ : A Causal-Guided Benchmark for Exploring Complex Commonsense Reasoning in Large Language Models",
+    author = "Xiong, Kai  and
+      Ding, Xiao  and
+      Cao, Yixin  and
+      Yan, Yuxiong  and
+      Du, Li  and
+      Zhang, Yufei  and
+      Gao, Jinglong  and
+      Liu, Jiaqian  and
+      Qin, Bing  and
+      Liu, Ting",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.785/",
+    pages = "16119--16140",
+    ISBN = "979-8-89176-251-0"
 }
 ```
 
